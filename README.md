@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Live-Streaming-Recording/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Streaming-Recording?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Live-Streaming-Recording/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Streaming-Recording?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Streaming-Recording/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Live-Streaming-Recording?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Live-Streaming-Recording/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Live-Streaming-Recording?style=flat-square&color=green" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,7 +60,7 @@ The following table benchmarks category-leading hosted live streaming studios, m
 
 Explore battle-tested open-source streaming software, real-time media ingestion servers, restreaming proxies, and screen capture applications. Ranked descending by GitHub stargazers.
 
-| Project & Repo 📦 | Stars ⭐ | Description 📝 | Primary Use Case 🛠️ |
+| Project & Repo 📦 | GitHub_Stars ⭐ | Description 📝 | Primary Use Case 🛠️ |
 |:---|:---:|:---|:---|
 | **[OBS Studio](https://github.com/obsproject/obs-studio)** | <a href="https://github.com/obsproject/obs-studio/stargazers"><img src="https://img.shields.io/github/stars/obsproject/obs-studio?style=social&color=white" alt="OBS Studio Stars" /></a> | The definitive free and open-source software for live streaming and recording across Windows, macOS, and Linux. Unlimited scenes, VST filters, and rich plugin ecosystem. | Desktop Live Production & Recording |
 | **[FFmpeg](https://github.com/FFmpeg/FFmpeg)** | <a href="https://github.com/FFmpeg/FFmpeg/stargazers"><img src="https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=social&color=white" alt="FFmpeg Stars" /></a> | The universal multimedia powerhouse framework. Provides low-level encoding, transcoding, muxing, streaming, filter pipelines, and hardware-accelerated video rendering. | Media Transcoding & Protocol Muxing |
@@ -94,7 +94,7 @@ Contributions are warmly welcome! Help expand and update this resource:
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-streaming-tool`).
-3. 📝 **Add/edit entries in `README.md`** following the existing tabular structure, including verified pricing tiers, exact trial limits, and official GitHub star badges.
+3. 📝 **Add/edit entries in `README.md`** following the existing tabular structure, including verified pricing tiers, exact trial limits, and official GitHub Stars_Badges.
 4. 🚀 **Submit a Pull Request** with a concise summary of the changes.
 
 ---
